@@ -1,4 +1,5 @@
 English description below!
+# openai-whisper
 
 A projekt bemutatja az OpenAI nyelvi feldolgozási képességeinek erejét.
 
@@ -22,8 +23,7 @@ To use this script, you'll need to have Python 3 installed on your computer, as 
 
 Overall, this project demonstrates the power of OpenAI's language processing capabilities and provides a useful tool for those who need to quickly transcribe and translate Hungarian videos.
 
-
-# openai-whisper
+# Req...
 
 Don't forget to download the Hungarian spaCY model:
 
